@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369781798397",
+    "project_id": "delta-discovery-163104"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369781798397:android:1481fba68e34f7be",
+        "android_client_info": {
+          "package_name": "com.example.kiran.demoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369781798397-4rp7qerbna7ho7k7djag1q7s58lfkb6h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "369781798397-a3bb8g3tpqq0nop7iegfdkjf2tma3l69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiran.demoproject",
+            "certificate_hash": "e009c4cd92b9ba7e9008e9f605b9ebfcc26ae195"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNJB5WmDT1cCFpRm8hdODKE8FLah1-tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
